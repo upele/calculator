@@ -3,17 +3,17 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.artschiz.puzzlegame"
+        id        = "com.sztglobal.codecalculator"
         version   = "1.0.0">
 
-    <name>ARTSCHIZ GAMES</name>
+    <name>CODE CALCULATOR</name>
 
     <description>
-    WORD PUZZLE POLYGON GAME
+   Calculator is developed for Hour of Code to teach the basics of computer programming
     </description>
 
     <author href="http://sztglobal.com" email="stivino1224@gmail.com">
-       ARTSCHIZ GAMES
+       SERVER ZERO TECHNOLOGIES 
     </author>
 
     <!-- Define the main entry-point to the application -->
