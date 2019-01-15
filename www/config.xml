@@ -6,7 +6,7 @@
         id        = "com.sztglobal.codecalculator"
         version   = "1.0.0">
 
-    <name>Test CODE CALCULATOR</name>
+    <name>CALCULATOR</name>
 
     <description>
    Calculator is developed for Hour of Code to teach the basics of computer programming
